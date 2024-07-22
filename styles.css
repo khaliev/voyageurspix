@@ -1,12 +1,15 @@
 h1 {
   font: italic bold 32px Verdana, sans-serif;
   color: rgb(76, 47, 92);
-  text-decoration: underline;
   text-align: center;
-  border: 4px dotted rgb(101, 101, 198);
+  border: 4px groove rgb(101, 101, 198);
 }
 
 .list {
-  font: bold 16px Arial, sans-serif;
-  line-height: 1.5;
+  margin: 25px;
+  padding: 5px;
+  display: flex;
+  font: bold 16px Tahoma, sans-serif;
+  list-style: none;
+  text-decoration: underline;
 }
