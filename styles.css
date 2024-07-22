@@ -1,0 +1,8 @@
+h1 {
+  font: italic bold 32px Verdana, sans-serif;
+  text-decoration: overline underline;
+}
+
+.list {
+  font: bold 16px Arial, sans-serif;
+}
