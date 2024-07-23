@@ -1,15 +1,25 @@
+* {
+  box-sizing: border-box;
+}
 h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
   font: italic bold 32px Verdana, sans-serif;
-  color: rgb(76, 47, 92);
+  color: rgb(233, 220, 240);
   text-align: center;
   border: 4px groove rgb(101, 101, 198);
+  background-color: #0a0a23;
+  width: 100%;
+  height: 100px;
 }
 
 .list {
   margin: 25px;
   padding: 5px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font: bold 16px Tahoma, sans-serif;
   list-style: none;
   text-decoration: underline;
