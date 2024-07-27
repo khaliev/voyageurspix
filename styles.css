@@ -9,8 +9,8 @@ h1 {
   font: italic bold 32px Arial, sans-serif;
   color: rgb(233, 220, 240);
   text-align: center;
-  border: 4px groove rgb(169, 169, 207);
-  background-color: #0a0a23;
+  border: 4px groove rgb(152, 152, 205);
+  background-color: #101043;
   width: 100%;
   height: 100px;
 }
