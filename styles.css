@@ -19,7 +19,7 @@ h1 {
   margin: 25px;
   padding: 5px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   font: bold 16px Tahoma, sans-serif;
   list-style: none;
   text-decoration: underline;
