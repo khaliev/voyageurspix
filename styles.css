@@ -7,7 +7,7 @@ h1 {
   align-items: center;
   margin: 0;
   font: italic bold 32px Arial, sans-serif;
-  color: rgb(233, 220, 240);
+  color: rgb(237, 230, 241);
   text-align: center;
   border: 4px groove rgb(152, 152, 205);
   background-color: #101043;
@@ -23,6 +23,6 @@ h1 {
   font: bold 16px Tahoma, sans-serif;
   list-style: none;
   text-decoration: underline;
-  background-color: rgb(245, 230, 213);
+  background-color: rgb(244, 231, 218);
   border: 2px solid rgb(61, 85, 109);
 }
