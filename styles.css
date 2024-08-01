@@ -26,3 +26,8 @@ h1 {
   background-color: rgb(244, 231, 218);
   border: 2px solid rgb(61, 85, 109);
 }
+
+img {
+  border-radius: 2px;
+  border: 1px solid beige;
+}
