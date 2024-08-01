@@ -19,7 +19,7 @@ h1 {
   margin: 25px;
   padding: 5px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font: bold 16px Tahoma, sans-serif;
   list-style: none;
   text-decoration: underline;
@@ -29,5 +29,5 @@ h1 {
 
 img {
   border-radius: 2px;
-  border: 1px solid beige;
+  border: 1px dotted beige;
 }
