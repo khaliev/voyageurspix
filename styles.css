@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: rgb(253, 251, 246);
+}
 h1 {
   display: flex;
   justify-content: center;
